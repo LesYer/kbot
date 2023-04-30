@@ -7,8 +7,11 @@ This is telegram bot
 How to use:
 
 git clone https://github.com/LesYer/kbot.git
+
 cd kbot
+
 go build 
+
 ./kbot start
 
 
